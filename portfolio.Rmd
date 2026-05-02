@@ -9,13 +9,14 @@ output:
 
 ## Skilled Birth Attendance in Katsina, Nigeria
 
-This interactive dashboard explores factors influencing skilled birth attendance among households surveyed in Katsina State, Nigeria as part of the CARE Nigeria EnRiCH program baseline survey. Built using R and Plotly, it allows public health program managers to identify gaps and target populations in need.
+This interactive dashboard explores factors influencing skilled birth attendance among households surveyed in Katsina State, Nigeria as part of the CARE Nigeria EnRiCH program baseline survey. It allows public health program managers to identify gaps and target populations in need.
 
 **Tools:** R, Plotly, Flexdashboard
 
 [View Dashboard](https://toniidowu.github.io/skilled-birth-attendance-dashboard/DATA-555-Final-Project-3.html) | [GitHub Repository](https://github.com/toniidowu/skilled-birth-attendance-dashboard)
 
 </div>
+
 
 <div class="project-card">
 
