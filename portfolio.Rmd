@@ -26,6 +26,6 @@ This interactive Shiny dashboard visualizes blood lead level data for children u
 
 **Tools:** R, Shiny, Leaflet
 
-[View Dashboard](https://0p75pg-toni-idowu.shinyapps.io/BLL_Dashboard/)
+[View Dashboard](https://0p75pg-toni-idowu.shinyapps.io/BLL_Dashboard/) | [GitHub Repository](https://github.com/toniidowu/BLL-Dashboard)
 
 </div>
