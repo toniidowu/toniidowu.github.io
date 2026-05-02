@@ -11,7 +11,7 @@ output:
 
 ## Welcome!
 
-I am a recent MPH graduate in Epidemiology from Emory University with a Certificate in Data Science. My work focuses on analyzing health data to generate insights that inform programs, guide decisions, and improve community outcomes. Skilled in R, SAS, and Excel, I am actively seeking data analyst, epidemiologist, or analytics-focused roles where I can bridge technical skills and public health knowledge.
+I am a recent MPH graduate in Epidemiology from Emory University with a Certificate in Data Science. My work focuses on analyzing health data to generate insights that inform programs, guide decisions, and improve community outcomes. Skilled in R, SAS, and Excel, I am actively seeking a data analyst, epidemiologist, or analytics-focused role where I can bridge technical skills and public health knowledge.
 
 **Email:** tonicharity6@gmail.com  
 **Location:** Atlanta, GA
