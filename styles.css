@@ -49,3 +49,10 @@ body {
   background-color: #4a3d6b !important;
   color: white !important;
 }
+
+@media (max-width: 768px) {
+  .profile-section {
+    flex-direction: column;
+    text-align: center;
+  }
+}
