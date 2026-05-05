@@ -20,7 +20,7 @@ This interactive dashboard explores factors influencing skilled birth attendance
 
 <div class="project-card">
 
-## Georgia Blood Lead Levels (2013-2022)
+## Georgia Blood Lead Levels 
 
 This interactive Shiny dashboard visualizes blood lead level data for children under 6 across Georgia counties from 2013 to 2022. It allows users to explore screening rates and prevalence trends by county and year, supporting public health decision-making around lead exposure risk.
 
