@@ -1,0 +1,31 @@
+---
+title: "Portfolio"
+output:
+  html_document:
+    css: styles.css
+---
+
+<div class="project-card">
+
+## Skilled Birth Attendance in Katsina, Nigeria
+
+This interactive dashboard explores factors influencing skilled birth attendance among households surveyed in Katsina State, Nigeria as part of the CARE Nigeria EnRiCH program baseline survey. It allows public health program managers to identify gaps and target populations in need.
+
+**Tools:** R, Plotly, Flexdashboard
+
+[View Dashboard](https://toniidowu.github.io/skilled-birth-attendance-dashboard/DATA-555-Final-Project-3.html) | [GitHub Repository](https://github.com/toniidowu/skilled-birth-attendance-dashboard)
+
+</div>
+
+
+<div class="project-card">
+
+## Georgia Blood Lead Levels 
+
+This interactive Shiny dashboard visualizes blood lead level data for children under 6 across Georgia counties from 2013 to 2022. It allows users to explore screening rates and prevalence trends by county and year, supporting public health decision-making around lead exposure risk.
+
+**Tools:** R, Shiny, Leaflet
+
+[View Dashboard](https://b85hco-toni-idowu.shinyapps.io/BLL_Dashboard/) | [GitHub Repository](https://github.com/toniidowu/BLL-Dashboard)
+
+</div>
