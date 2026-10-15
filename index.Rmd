@@ -1,0 +1,20 @@
+---
+title: "Toni Idowu"
+output:
+  html_document:
+    css: styles.css
+---
+
+<div class="profile-section">
+<img src="picture.png" class="profile-pic" alt="Toni Idowu">
+<div class="profile-text">
+
+## Welcome!
+
+I am a public health professional with 4+ years of experience. My work focuses on analyzing health data to generate insights that inform programs, guide decisions, and improve community outcomes. Skilled in R, SAS, SQL, and Excel, I am actively seeking a data analyst, epidemiologist, health consultant, or analytics-focused role where I can bridge technical skills and public health knowledge.
+
+**Email:** tonicharity6@gmail.com  
+**Location:** Atlanta, GA
+
+</div>
+</div>

@@ -1,0 +1,16 @@
+name: "Toni Idowu"
+navbar:
+  title: "Toni Idowu"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Portfolio"
+      href: portfolio.html
+    - text: "Resume"
+      href: resume.html
+  right:
+    - icon: fa-github
+      href: https://github.com/toniidowu
+    - icon: fa-linkedin
+      href: https://linkedin.com/in/toniidowu
+output_dir: "."
